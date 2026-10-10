@@ -1,2 +1,2 @@
 # homebrew-encoding
-Encoding module for cloudbian-lite and other open source projects
+Encoding module for open source projects
